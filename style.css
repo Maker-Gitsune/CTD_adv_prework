@@ -1,0 +1,66 @@
+body {
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    background: #f7f7f7;
+    color: #333333;
+    padding: 20px;
+    background-image: url('menacing_fruit.jpeg');
+}
+
+header {
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #333333;
+}
+
+main {
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ebebeb;
+    border-radius: 5px;
+}
+
+footer {
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #333333;
+}
+
+fieldset {
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+}
+
+li {
+    list-style-type: none;
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+label {
+    font-size: 14px;}
+
+table {
+    display: inline-block;
+    width: auto;
+    float: none;
+    margin: 15px;
+}
+
+table, th, td {
+    border: solid black;
+  }
+
+.link{
+    font-size: 24px; 
+}
