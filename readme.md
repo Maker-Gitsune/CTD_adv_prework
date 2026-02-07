@@ -8,4 +8,4 @@
 2. ???
 3. profit
 ## So what is this?
-This repository contains a simple webpage that uses JavaScript to interface with an API and displays the things retrieved.
+This repository contains a simple webpage that uses JavaScript to interface with an API and display the things retrieved.
