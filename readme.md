@@ -7,7 +7,7 @@
 ## Usage:
 1. clone this repository to a location accessible to the webserver
 2. create a `.env` file (the file/extension is just named ".env") in the root of repository (same level as index.html and everything else).
-3. paste the following into ".env" `key=[your_api_key_here]`
+3. paste the following into ".env" `key=your_api_key_here`
 4. start the webserver
 5. navigate to the location where the repository is and open index.html
 ## So what is this?
