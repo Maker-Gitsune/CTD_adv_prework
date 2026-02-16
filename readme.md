@@ -9,4 +9,4 @@
 2. start the webserver
 3. navigate to the location where the repository is and open index.html
 ## So what is this?
-This repository contains a simple webpage that is supposed to (doesn't currently) use JavaScript to interface with an API and display the things retrieved.
+This repository contains a simple webpage that is supposed to (doesn't currently as of 02/15) use JavaScript to interface with an API and display the things retrieved.
